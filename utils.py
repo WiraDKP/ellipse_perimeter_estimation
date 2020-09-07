@@ -1,6 +1,6 @@
 import numpy as np
 from scipy.special import binom
-from math import factorial, tau
+from math import tau
 
 
 def perimeter_hm(a, b=1):
